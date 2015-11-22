@@ -850,8 +850,17 @@ ul.plan.plan2.featured .plan-name {
 background: #F39D17;
 }
 /* --Portfolio----- */
+#menu {
+	background: rgba(19, 19, 19, 0.94);
+}
+
+#menu h2 {
+    color: #ffffff;
+    #font-family: Lato, Helvetica, sans-serif ;
+    font-weight: bold;
+}
 #work {
-	background: #222;
+	background: rgba(103, 103, 103, 0.82);
 	color: #fff;
 }
 #work h2 {
